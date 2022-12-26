@@ -1,108 +1,92 @@
-name: John Doe
+ name: Dimitris Dimotsis
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: dimitrisdimotsis@yahoo.com
+  github: dimidimots
+  linkedin: dimitris-dimotsis-258896222
+  phone: +306974406000  
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
-
+  - idiom: Greek (native)
+  - idiom: English (working profiency)
+  - idiom: French (elementary)
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
+  - degree: Msc Pervasive and Mobile Computing Systems 
+    time: 2020-Present
+    university: Hellenic Open University   
+  - degree: MSc in Quality Assurance
+    time: 2015-2018
+    university: Hellenic Open University   
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
-
+    time: 2001-2009
+    university: Technological Educational Institute of Thessaloniki
 skills:
-  - category: Backend
+  - category: Testing
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Ranorex
+      - TestComplete
+  - category: Supporting
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
-
+      - Jira
+      - Outlook
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  fugiat nulla pariatur.  
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Support Manager
+    time: 2021-Present
+    company: Nomitech
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Responsible for the communication with the customers. Coordination of the support team. 
+      Keep records of customer interactions. Procedures setting and checking. Maintaining detailed records of customer interactions.  
+    technologies_used: |  
+    Jira, CostOS, SQL Server Management Studio, Figma, CellBIM, Wiki, Atlassian Confluence, Sharepoint, Teams, Bamboo.
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Monitoring operator
+    time: 2019-2021
+    company: Terna Energy 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+       Providing IT support, logs investigation, Financial resolving of ticketing issues. 
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Jira, Windows Server
 
+- role: Customer Technical Support
+    time: 2012-2019
+    company: OTE Group of Companies (HTO)
+    details: |
+    providing 1st line tech support
+       
+    technologies_used: | 
+      Siebel, Office
+      
+- role: IT support and Project Management assistant
+    time: 2011-2012
+    company: TEKIM
+    details: |
+    IT Support
+       
+    technologies_used: | 
+      Primavera, MS Excel
+      
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
+  - title: Στατιστική επεξεργασία των οικονομικών δεδομένων των παρόχων τηλεπικοινωνιών.
+    link: https://apothesis.eap.gr/handle/repo/40140?locale=el
     authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+    conference:  
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2010-Present
+    role: Editor
+    company: English and Greek Wikipedia
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+     Contributing in various topics.

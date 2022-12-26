@@ -49,7 +49,7 @@ experience:
       Responsible for the communication with the customers. Coordination of the support team. 
       Keep records of customer interactions. Procedures setting and checking. Maintaining detailed records of customer interactions.  
     technologies_used: |  
-    Jira, CostOS, SQL Server Management Studio, Figma, CellBIM, Wiki, Atlassian Confluence, Sharepoint, Teams, Bamboo.
+        Jira, CostOS, SQL Server Management Studio, Figma, CellBIM, Wiki, Atlassian Confluence, Sharepoint, Teams, Bamboo.
   
   - role: Monitoring operator
     time: 2019-2021
